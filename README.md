@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @yu2024964213
+- 👀 I’m interested in cartoon and movie
+- 🌱 I’m currently learning how to use git and github
